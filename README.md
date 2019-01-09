@@ -1,2 +1,3 @@
-# paper_reading
-## I am going to read papers everyday and I wanna keep some record to remember what I've been doing recent days
+### paper_reading
+Do research of classical mehtods(Hog+SVM, Hog+Adaboost, ICF+Adaboost, DMP+latent SVM) and DL methods(Fast/Faster R-CNN, SSD, FPN, YOLO)
+In the 
